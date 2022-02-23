@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,QAAQ,CAAA;EACJ,aAAa,EAAE,GAAG;EAClB,UAAU,EAAC,IAAI;EACf,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,YAAY;EAC7B,WAAW,EAAE,OAAO;CAOvB;;AAbD,AAOI,QAPI,CAOJ,IAAI,CAAA;EACA,KAAK,EAAC,IAAI;EACV,SAAS,EAAE,IAAI;EACf,OAAO,EAAE,YAAY;EACrB,OAAO,EAAE,KAAK;CACjB",
+    "sources": [
+        "Coin.scss"
+    ],
+    "names": [],
+    "file": "Coin.css"
+}
